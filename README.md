@@ -3,7 +3,7 @@
 # << Project Title >>
 ## CS 110 Final Project
 ### << Semester, Year >>
-### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
+### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
 << [https://github.com/<repo>](#) >>
 
